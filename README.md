@@ -1,6 +1,6 @@
-# Proyecto Azure - Arquitectura Bad Ice Cream
+# Proyecto Azure - Arquitectura Bad Eci Cream
 
-Este repositorio contiene los componentes principales para la arquitectura del juego **Bad Ice Cream** utilizando servicios de Azure.
+Este repositorio contiene los componentes principales para la arquitectura del juego **Bad Eci Cream** utilizando servicios de Azure.
 
 ## Estructura del repositorio
 
@@ -19,7 +19,7 @@ Este repositorio contiene los componentes principales para la arquitectura del j
 
 ## Descripción general
 
-Este repositorio fue creado como parte de la arquitectura del juego **Bad Ice Cream**.  
+Este repositorio fue creado como parte de la arquitectura del juego **Bad Eci Cream**.  
 El flujo principal es el siguiente:
 
 1. Un mensaje es enviado a una cola de Azure (por ejemplo, desde el juego o desde el módulo de pruebas).
