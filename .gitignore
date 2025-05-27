@@ -3,3 +3,5 @@
 
 # Ignorar todas las carpetas node_modules en cualquier carpeta
 **/node_modules/
+
+./vscode/
